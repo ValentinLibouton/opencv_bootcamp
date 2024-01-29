@@ -1,0 +1,1 @@
+# 2. Basic image manipulations crop resize flip and modify pixels - Quiz
