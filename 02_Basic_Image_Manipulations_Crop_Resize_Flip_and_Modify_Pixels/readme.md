@@ -1,5 +1,9 @@
-# 2. Basic image manipulations crop resize flip and modify pixels - Quiz
+# 2. Basic image manipulations crop resize flip and modify pixels
+[Notebook](https://colab.research.google.com/drive/1Y1aAZhv-IjoyBd2BQH3kN67N6hLEgIQH)<br>
+[Video](https://www.youtube.com/watch?v=3a5aDPxflFU)<br>
 [Docs](https://docs.opencv.org/4.5.0/da/d54/group__imgproc__transform.html#ga5bb5a1fea74ea38e1a5445ca803ff121)
+
+## Quiz
 1. What is the default interpolation method used by `cv2.resize()`?
 - [ ] `cv2.INTER_CUBIC`
 - [x] `cv2.INTER_LINEAR`

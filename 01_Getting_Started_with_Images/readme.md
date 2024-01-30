@@ -1,4 +1,8 @@
-# 1. Getting started with images - Quiz
+# 1. Getting started with images
+[Notebook](https://colab.research.google.com/drive/1qH55jpAaSTyWgsrrlv96-76eCiVbJQkF)<br>
+[Video](https://www.youtube.com/watch?v=6mVOmFk3M_E)<br>
+
+##  Quiz
 1. What happens if the filename specified in `cv2.imwrite` already exists?
 - [ ] An error is raised
 - [x] The existing file is overwritten
