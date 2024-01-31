@@ -8,3 +8,4 @@
 [7. Image filterging (Edge Detection)](07_Image_Filtering__Edge_Detection/readme.md)<br>
 [8. Image alignment](08_Image_Alignment/readme.md)<br>
 [9. Panorama](09_panorama/readme.md)<br>
+[10. HDR](10_hdr/readme.md)<br>
