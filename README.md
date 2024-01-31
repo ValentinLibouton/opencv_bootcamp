@@ -9,3 +9,5 @@
 [8. Image alignment](08_Image_Alignment/readme.md)<br>
 [9. Panorama](09_panorama/readme.md)<br>
 [10. HDR](10_hdr/readme.md)<br>
+[11. Object tracking](11_objectTracking/readme.md)<br>
+[12. Face detection](12_Face_Detection/readme.md)<br>

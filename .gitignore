@@ -168,3 +168,5 @@ cython_debug/
 *.zip
 *.mp4
 *.avi
+*.caffemodel
+*.prototxt
