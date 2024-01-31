@@ -11,3 +11,5 @@
 [10. HDR](10_hdr/readme.md)<br>
 [11. Object tracking](11_objectTracking/readme.md)<br>
 [12. Face detection](12_Face_Detection/readme.md)<br>
+[13. Tensorflow object detection](13_tf_object_detection/readme.md)<br>
+[14. Open pose](14_OpenPose/readme.md)<br>
