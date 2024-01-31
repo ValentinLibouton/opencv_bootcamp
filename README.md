@@ -6,3 +6,4 @@
 [5. Accessing the camera](05_Accessing_The_Camera/readme.md)<br>
 [6. Writing video using openCV](06_Writing_Video_using_OpenCV/readme.md)<br>
 [7. Image filterging (Edge Detection)](07_Image_Filtering__Edge_Detection/readme.md)<br>
+[# 8. Image alignment](08_Image_Alignment/readme.md)<br>
