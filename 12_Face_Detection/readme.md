@@ -5,10 +5,10 @@
 - [ ] The `.caffemodel` file containing the pre-trained weights of the model
 - [ ] The `.prototxt` file containing the model's architecture and configuration
 - [ ] The OpenCV package installed
-- [ ] A GPU for faster processing 
+- [x] A GPU for faster processing 
 
 2. What is the first step in face recognition using OpenCV?
-- [ ] Detecting faces in an image or video stream.
+- [x] Detecting faces in an image or video stream.
 - [ ] Training a model with images of known faces.
 - [ ] Extracting features from facial images
 - [ ] Comparing the features of an unknown face to those of known faces
@@ -17,4 +17,4 @@
 - [ ] Variation in lighting and background
 - [ ] Low contrast in facial features
 - [ ] Pose and occlusion
-- [ ] All of the above 
+- [x] All of the above 
